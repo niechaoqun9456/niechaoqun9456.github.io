@@ -135,3 +135,11 @@ Thus, there are simply two rules to Android's single thread model:
 1. Do not block the UI thread
 2. Do not access the Android UI toolkit from outside the UI thread
 
+
+### Reference
+https://www.youtube.com/watch?v=eAtMon8ndfk&list=PL1MI6gyw-RfkNXRX-rAjNlWrt3c8kCRV3&index=7&t=1130s
+
+https://developer.android.com/guide/components/processes-and-threads
+
+https://developer.android.com/topic/performance/threads
+
