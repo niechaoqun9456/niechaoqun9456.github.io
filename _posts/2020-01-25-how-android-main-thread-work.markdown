@@ -137,9 +137,9 @@ Thus, there are simply two rules to Android's single thread model:
 
 
 ### Reference
-https://www.youtube.com/watch?v=eAtMon8ndfk&list=PL1MI6gyw-RfkNXRX-rAjNlWrt3c8kCRV3&index=7&t=1130s
+[How Main Thread Work](https://www.youtube.com/watch?v=eAtMon8ndfk&list=PL1MI6gyw-RfkNXRX-rAjNlWrt3c8kCRV3&index=7&t=1130s)
 
-https://developer.android.com/guide/components/processes-and-threads
+[processes-and-threads](https://developer.android.com/guide/components/processes-and-threads)
 
-https://developer.android.com/topic/performance/threads
+[threads](https://developer.android.com/topic/performance/threads)
 
