@@ -8,4 +8,4 @@ categories: jekyll update
 2. 学习不应该只包含输入，输出更为关键。
 3. 输出(reflect,implemnt,share)时间占比应该是输入（learn）的两倍。
 
-[Mastery: How to Learn Anything Fast | Nishant Kasibhatla](https://www.youtube.com/watch?v=ZVO8Wt_PCgE)
+[Mastery: How to Learn Anything Fast](https://www.youtube.com/watch?v=ZVO8Wt_PCgE)
