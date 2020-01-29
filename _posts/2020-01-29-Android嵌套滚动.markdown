@@ -12,5 +12,7 @@ categories: jekyll update
 4. 要注意NestedScrollingParent的子View不是NestedScrollingChild的情况，保证该情况下也能正常工作（通过处理TouchEvent事件）
 
 [Nested Scrolling](https://blog.kyleduo.com/2017/03/08/nested-scrolling/)
+
 [Nested Scrolling Example](https://www.androiddesignpatterns.com/2018/01/experimenting-with-nested-scrolling.html)
+
 [Carry On Scrolling](https://chris.banes.dev/2017/06/09/carry-on-scrolling/)
