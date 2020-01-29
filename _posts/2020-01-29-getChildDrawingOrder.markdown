@@ -29,7 +29,7 @@ ViewGroup子View的绘制顺序和添加顺序一致，如果想要改变子View
 
 注意：越后面绘制的子View越在上层（Z轴）
 
-例如：SwipeRefreshLayout需要将刷新icon绘制在最上层，所以其重新方法如下：
+例如：SwipeRefreshLayout需要将刷新icon绘制在最上层，所以其重写方法如下：
 
 ```java
 /**
