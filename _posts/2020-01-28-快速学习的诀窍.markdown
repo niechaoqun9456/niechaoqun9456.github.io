@@ -5,7 +5,8 @@ date:   2020-01-28 18:02:10 +0800
 categories: jekyll update
 ---
 1. 6小时不间断的学习只有前25-30分钟是有效的，每25分钟休息5分钟，有效学习事件可以提高到5小时
-2. 学习不应该只包含输入，输出更为关键。
-3. 输出(reflect,implemnt,share)时间占比应该是输入（learn）的两倍。
+2. Concept first. 概念优先，尝试用自己的理解复述概念。
+3. 学习不应该只包含输入，输出更为关键。
+4. 输出(reflect,implemnt,share)时间占比应该是输入（learn）的两倍。
 
 [Mastery: How to Learn Anything Fast](https://www.youtube.com/watch?v=ZVO8Wt_PCgE)
