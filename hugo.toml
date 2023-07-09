@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'zh-cn'
 title = 'Code For Value'
 theme = 'hugo-book'
+
+[params]
+  BookSearch = false
